@@ -1,0 +1,35 @@
+header,main{
+    display: block;
+    text-align: center;
+}
+
+body{
+    margin-top: 100px;
+    background-color: rgb(230, 255, 238);
+}
+
+#first_line{
+    display: block;
+    margin-top: 10px;
+}
+
+#second_line{
+    display: block;
+    margin-top: 10px;
+}
+
+#third_line{
+    display: block;
+    margin-top: 10px;
+}
+
+#forth_line{
+    display: block;
+    margin-top: 10px;
+}
+
+footer{
+    display: block;
+    text-align: center;
+    margin-top: 100px;
+}
